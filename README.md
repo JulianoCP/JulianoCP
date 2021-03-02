@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: https://github.com/JulianoCP/JulianoCP/blob/main/HELLO%20WORLD.png
+[logo]: https://github.com/JulianoCP/JulianoCP/blob/main/logo.png
 
 A little about myself.
 
