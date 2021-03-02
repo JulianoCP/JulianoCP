@@ -2,6 +2,8 @@
 
 [logo]: https://github.com/JulianoCP/JulianoCP/blob/main/logo.png
 
+---
+
 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
@@ -14,7 +16,6 @@
 </a>
 
 
----
 A little about myself.
 - 🔭 I’m currently working on game development 💻
 - 🌱 I’m currently learning game design 📚
