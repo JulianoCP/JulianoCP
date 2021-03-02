@@ -10,4 +10,4 @@ A little about myself.
 - 📫 How to reach me: julianocesarpetini@gmail.com / www.reddit.com/user/JulianoCP ✉️
 - ⚡ Fun fact: I like coffee ☕
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![JulianoCP GitHub stats](https://github-readme-stats.vercel.app/api?username=julianocp&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianocp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
