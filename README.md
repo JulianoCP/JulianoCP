@@ -1,4 +1,6 @@
-### Hi there 👋
+![alt text][logo]
+
+[logo]: https://github.com/JulianoCP/JulianoCP/blob/main/hello.gif
 
 A little about myself.
 
