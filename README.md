@@ -5,8 +5,8 @@
 ---
 A little about myself.
 - 🔭 I’m currently working on game development 💻
-- 🌱 I’m currently learning game design 📚
-- 💬 Ask me about game development and GDScript 🎮
+- 🌱 I’m currently learning pixel art 📚
+- 💬 Ask me about game development and Unreal/Godot 🎮
 - 📫 How to reach me:
     - julianocesarpetini@gmail.com  
     - www.reddit.com/user/JulianoCP 
